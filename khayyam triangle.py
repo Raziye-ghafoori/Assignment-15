@@ -10,7 +10,6 @@ for i in range(n):
        row.append(factorial(i)//(factorial(j)*factorial(i-j)))
     array.append(row)
             
-
-print(array)
-
-            
+for i in array:
+    print(i)
+           
