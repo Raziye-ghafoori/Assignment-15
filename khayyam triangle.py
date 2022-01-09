@@ -1,6 +1,6 @@
 from math import factorial
-n=int(input("enter number:: "))
 
+n=int(input("enter number:: "))
 
 array=[]
 
